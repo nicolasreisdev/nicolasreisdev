@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Computer Science - UFV<br>Administration - Grau Técnico
 
 
